@@ -1,4 +1,4 @@
-# Défi JavaScript du 14 juin 2021
-### DWWM Simplon Nice
+# Défi JavaScript
+### DWWM Simplon Nice, 14 juin 2021
 
-Brief de 20 exercices basiques pour manipuler le langage javascript
+Brief de 20 exercices basiques pour manipuler le langage javascript.
